@@ -1,0 +1,14 @@
+## Interface: 40000
+## Title: SpellLock
+## Notes: Tracks spell school lockouts on enemy targets by you or members of your party.
+## Author: Akarou@Al'Akir-EU
+## SavedVariables: SpellLockDB
+## OptionalDeps: Ace3, LibBars-1.0, LibSink-2.0, LibSharedMedia-3.0, DBM-Core
+## X-Curse-Packaged-Version: v1.2.5
+## X-Curse-Project-Name: SpellLock
+## X-Curse-Project-ID: spelllock
+## X-Curse-Repository-ID: wow/spelllock/mainline
+
+embeds.xml
+
+SpellLock.lua

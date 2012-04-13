@@ -1,0 +1,23 @@
+v1.2.1
+- Updated changed interrupt durations
+- Added some missing and removed some old interrupts
+- Added the option of tracking silence effects.
+
+v1.2.0
+- Fixed for Cataclysm
+
+v1.1.0
+- Added the option of tracking enemy interrupt cooldowns in the arena. This is enabled by default, but can be turned off in the options. DBM bars is not supported for this feature.
+- Added bar height customization.
+- Added class to chat output "SpellLock:Akarou (MAGE:Frost) for 8 sec by Darmage".
+- Most of the bar handling code has been changed to add support for cooldown tracking, so please report any errors you might get.
+- Added the option of making the bar list grow upwards.
+- Fixed a typo.
+
+v1.0.1
+- Added /spelllock and /slock slash commands.
+
+v1.0 release
+- Now works for a warlock's own pet.
+- Pets with the same name as yours, but that are not in your party, should no longer activate the addon.
+- The anchor can now be hidden by right-clicking on it.
